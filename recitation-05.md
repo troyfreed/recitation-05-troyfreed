@@ -32,8 +32,7 @@ selecting a random pivot.
 **1b)**
 
 Compare running times using `compare-sort` between variants of
-Quicksort and the
-provided implementation of selection sort (`ssort`). Perform two
+Quicksort and the provided implementation of selection sort (`ssort`). Perform two
 different comparisons: a comparison between sorting methods using
 random permutations of the specified sizes, and a comparison using
 already sorted permutations. How do the running times compare to the
