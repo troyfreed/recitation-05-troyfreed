@@ -92,4 +92,3 @@ def test_print():
 
 random.seed()
 test_print()
-print("hell")
